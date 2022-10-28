@@ -17,6 +17,7 @@ public class Store {
     private Store() {
         productsListFilling();
     }
+
     private void productsListFilling() {
         products.put("Хлеб", 56);
         products.put("Масло", 153);

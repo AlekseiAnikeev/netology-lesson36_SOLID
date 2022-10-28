@@ -8,6 +8,7 @@ import java.util.Map;
  */
 public class Basket {
     private Purchase[] purchases;
+
     public Basket(int basketLength) {
         purchases = new Purchase[basketLength];
     }

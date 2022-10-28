@@ -6,8 +6,6 @@ import java.util.Scanner;
  * @author Aleksey Anikeev aka AgentChe
  * Date of creation: 25.10.2022
  */
-
-
 public class Main {
 
     public static void main(String[] args) {
